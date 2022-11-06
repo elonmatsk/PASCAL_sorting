@@ -1,0 +1,35 @@
+Sort method: 	Sort Mas: 	n: 	Comp.Count: 	Move Count: 						
+Straight Selection	Random	16	43	102						
+Straight Selection	ASC	16	15	0						
+Straight Selection	DESC	16	120	256						
+Straight Selection	Random	256	16291	32838						
+Straight Selection	ASC	256	255	0						
+Straight Selection	DESC	256	32640	65536						
+Straight Selection	Random	1024	261595	524214				Row Labels	_____ ____________	_____ _________
+Straight Selection	ASC	1024	1023	0				Straight Choice	848854	1673487
+Straight Selection	DESC	1024	523776	1048576				ASC	559122	557829
+Straight Choice	Random	16	135	56				16	150	135
+Straight Choice	ASC	16	135	150				256	33150	32895
+Straight Choice	DESC	16	135	86				1024	525822	524799
+Straight Choice	Random	256	32895	1686				DESC	280530	557829
+Straight Choice	ASC	256	32895	33150				16	86	135
+Straight Choice	DESC	256	32895	16766				256	16766	32895
+Straight Choice	Random	1024	524799	7460				1024	263678	524799
+Straight Choice	ASC	1024	524799	525822				Random	9202	557829
+Straight Choice	DESC	1024	524799	263678				16	56	135
+								256	1686	32895
+								1024	7460	524799
+								Straight Selection	1671522	835758
+								ASC	0	1293
+								16	0	15
+								256	0	255
+								1024	0	1023
+								DESC	1114368	556536
+								16	256	120
+								256	65536	32640
+								1024	1048576	523776
+								Random	557154	277929
+								16	102	43
+								256	32838	16291
+								1024	524214	261595
+								Grand Total	2520376	2509245
